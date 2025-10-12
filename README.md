@@ -26,7 +26,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Etec Prefeito A
 
 ## ⭐ GitHub Stats
 
-[![feeh7's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=feeh7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![feeh7's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=feeh7&layout=compact&theme=dark)](https://github.com/feeh7/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feeh7/feeh7/output/github-contribution-grid-snake-dark.svg">
