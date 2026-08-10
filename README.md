@@ -1,31 +1,49 @@
-## 👋 Opa, meu nome é Rafael!
+## 👋 Olá, eu sou o Rafael!
 
-Atualizando meu perfil aos poucos...
+Desenvolvedor com foco na criação de soluções eficientes e regras de negócio sólidas. Minha principal especialidade técnica e tecnologia de domínio atual é **Django (Python)**, aplicada ao desenvolvimento de APIs e sistemas web.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Etec Prefeito Alberto Feres**, atualmente nos últimos semestres. Interessado em **desenvolvimento de sistemas** e **tecnologias web**, e estou me preparando para ingressar na graduação em **Desenvolvimento de Sistemas pela FATEC**, buscando aprimorar minhas habilidades em programação e em projetos práticos.
+Tenho experiência prática no ciclo completo de planejamento de software (*SDLC*) — desde a análise de viabilidade de negócios (SWOT, PESTEL), engenharia de requisitos e modelagem de banco de dados (MER/DER) até a codificação e estruturação de dados.
 
-🔭 **Atualmente priorizando estudos em:**  
-- Lógica de programação em **Java** e **C++**  
-- Desenvolvimento **Front-end com React**, integrando conceitos de **Back-end** para criar aplicações completas
+🎓 **Formação Técnico-Acadêmica:**
+- **Técnico em Desenvolvimento de Sistemas** — Etec Prefeito Alberto Feres
+- Preparatório contínuo para graduação focada em Tecnologia (FATEC)
 
----
-
-## 🚀 Minhas Skills
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
+🔭 **Nível de Conhecimento e Foco:**
+- **Principais Tecnologias (Domínio Prático):** **Django (Python)**, desenvolvimento web, modelagem relacional de dados e **SQL (MySQL)**.
+- **Em Aprendizado e Aprimoramento:** **Java**, **React**, **Node.js**, **C++** e **PHP** (explorando conceitos de orientação a objetos, arquitetura de sistemas e interfaces).
+- **Engenharia de Software:** Análise de requisitos, modelagem ER e documentação técnica de projetos.
 
 ---
 
-## ⭐ GitHub Stats
+## 🚀 Tecnologias & Ferramentas
 
-[![feeh7's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=feeh7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Principal Stack & Domínio
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+</p>
+
+### Em Estudo / Aprendizado
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+---
+
+## ⭐ Estatísticas do GitHub
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeh7&layout=compact&theme=dark" alt="Top Languages" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feeh7/feeh7/output/github-contribution-grid-snake-dark.svg">
