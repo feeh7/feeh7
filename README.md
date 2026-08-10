@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Rafael!
 
-Desenvolvedor com foco na criação de soluções eficientes e regras de negócio sólidas. Minha principal especialidade técnica e tecnologia de domínio atual é **Django (Python)**, aplicada ao desenvolvimento de APIs e sistemas web.
+Desenvolvedor com foco na criação de soluções eficientes e regras de negócio sólidas. Minha principal especialidade técnica e tecnologia de domínio atual é **Django (Python)**.
 
 Tenho experiência prática no ciclo completo de planejamento de software (*SDLC*) — desde a análise de viabilidade de negócios (SWOT, PESTEL), engenharia de requisitos e modelagem de banco de dados (MER/DER) até a codificação e estruturação de dados.
 
