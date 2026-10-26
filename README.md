@@ -1,21 +1,21 @@
-## 👋 Olá, eu sou o Rafael!
+## Olá, eu sou o Rafael!
 
 Desenvolvedor com foco na criação de soluções eficientes e regras de negócio sólidas. Minha principal especialidade técnica e tecnologia de domínio atual é **Django (Python)**.
 
 Tenho experiência prática no ciclo completo de planejamento de software (*SDLC*) — desde a análise de viabilidade de negócios (SWOT, PESTEL), engenharia de requisitos e modelagem de banco de dados (MER/DER) até a codificação e estruturação de dados.
 
-🎓 **Formação Técnico-Acadêmica:**
+ **Formação Técnico-Acadêmica:**
 - **Técnico em Desenvolvimento de Sistemas** — Etec Prefeito Alberto Feres
 - Preparatório contínuo para graduação focada em Tecnologia (FATEC)
 
-🔭 **Nível de Conhecimento e Foco:**
+ **Nível de Conhecimento e Foco:**
 - **Principais Tecnologias (Domínio Prático):** **Django (Python)**, desenvolvimento web, modelagem relacional de dados e **SQL (MySQL)**.
 - **Em Aprendizado e Aprimoramento:** **Java**, **React**, **Node.js**, **C++** e **PHP** (explorando conceitos de orientação a objetos, arquitetura de sistemas e interfaces).
 - **Engenharia de Software:** Análise de requisitos, modelagem ER e documentação técnica de projetos.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 ### Principal Stack & Domínio
 <p align="left">
